@@ -269,7 +269,7 @@ svg use { fill: currentColor; }
 .logo { width: 187px; height: 25.2px; }
 .nav__links { display: flex; gap: 64px; }
 .nav__links a { font: 500 15px/18px var(--ui); color: #fff; transition: opacity .2s; }
-.nav__links a:hover { opacity: .75; }
+.nav__links a:hover { color: var(--green) }
 .nav__actions { justify-self: end; display: flex; align-items: center; gap: 29.6px; }
 .nav__lang { color: #fff; }
 .nav__lang .ic { width: 24.8px; height: 24.8px; }
