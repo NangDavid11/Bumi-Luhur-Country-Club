@@ -1,0 +1,5206 @@
+.bumi-luhur-country-club,
+.bumi-luhur-country-club * {
+  box-sizing: border-box;
+}
+.bumi-luhur-country-club {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  overflow-y: auto;
+}
+.safari-home-dark {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.safari-container {
+  background: #ffffff;
+  border-radius: 5.99px 5.99px 0px 0px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.07);
+  border-width: 0px 0px 3.42px 0px;
+  width: 100%;
+  height: 120.83%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: -20.83%;
+  top: 0%;
+}
+.icon {
+  border-radius: 7.19px;
+  width: 28.77px;
+  height: 28.77px;
+  position: absolute;
+  left: 1788px;
+  top: 14.38px;
+  overflow: visible;
+}
+.icon2 {
+  border-radius: 7.19px;
+  width: 28.77px;
+  height: 28.77px;
+  position: absolute;
+  left: 1826.36px;
+  top: 14.38px;
+  overflow: visible;
+}
+.icon3 {
+  border-radius: 7.19px;
+  width: 28.77px;
+  height: 28.77px;
+  position: absolute;
+  left: 1864.71px;
+  top: 14.38px;
+  overflow: visible;
+}
+.icon4 {
+  width: 28.77px;
+  height: 28.77px;
+  position: absolute;
+  left: 592px;
+  top: 14.38px;
+  overflow: visible;
+}
+.back-button {
+  display: flex;
+  flex-direction: row;
+  gap: 9.59px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 932.5px);
+  top: calc(50% - 2.19px);
+}
+.ellipse-8 {
+  background: #ff5e5d;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #e14942;
+  border-width: 0.6px;
+  flex-shrink: 0;
+  width: 14.38px;
+  height: 14.38px;
+  position: relative;
+}
+.ellipse-9 {
+  background: #ffbc4f;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #e1a325;
+  border-width: 0.6px;
+  flex-shrink: 0;
+  width: 14.38px;
+  height: 14.38px;
+  position: relative;
+}
+.ellipse-10 {
+  background: #22cb58;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #3eaf3f;
+  border-width: 0.6px;
+  flex-shrink: 0;
+  width: 14.38px;
+  height: 14.38px;
+  position: relative;
+}
+.arrows {
+  display: flex;
+  flex-direction: row;
+  gap: 9.59px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 67.12px;
+  position: absolute;
+  left: 186.98px;
+  top: 14.38px;
+}
+.arrow-left {
+  flex-shrink: 0;
+  width: 28.77px;
+  height: 28.77px;
+  position: relative;
+}
+.arrow-left2 {
+  height: auto;
+  position: absolute;
+  left: calc(50% - -4.29px);
+  top: calc(50% - 8.9px);
+  transform: translate(-9.34px, 0px);
+  overflow: visible;
+}
+.arrow-right {
+  flex-shrink: 0;
+  width: 28.77px;
+  height: 28.77px;
+  position: relative;
+}
+.arrow-right2 {
+  height: auto;
+  position: absolute;
+  left: calc(50% - 5.05px);
+  top: calc(50% - -8.13px);
+  transform: translate(0px, -17.03px);
+  overflow: visible;
+}
+.icon5 {
+  width: 28.77px;
+  height: 28.77px;
+  position: absolute;
+  left: 131.85px;
+  top: 14.38px;
+  overflow: visible;
+}
+.home-search-box {
+  width: 698.79px;
+  height: 33.56px;
+  position: absolute;
+  left: 629.16px;
+  top: 11.99px;
+}
+.rectangle-7 {
+  background: #f2f2f2;
+  border-radius: 5.99px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.refresh {
+  width: 4.12%;
+  height: 85.71%;
+  position: absolute;
+  right: 0.17%;
+  left: 95.71%;
+  bottom: 7.14%;
+  top: 7.14%;
+  overflow: visible;
+}
+.search-box {
+  display: flex;
+  flex-direction: row;
+  gap: 1.2px;
+  align-items: center;
+  justify-content: center;
+  width: 16.98%;
+  height: 85.71%;
+  position: absolute;
+  right: 41.51%;
+  left: 41.51%;
+  bottom: 7.14%;
+  top: 7.14%;
+}
+.secure-icons {
+  flex-shrink: 0;
+  width: 28.77px;
+  height: 28.77px;
+  position: relative;
+}
+.icon6 {
+  height: auto;
+  position: absolute;
+  left: 9.59px;
+  top: 8.39px;
+  overflow: visible;
+}
+.dribbble-com {
+  color: #4c4c4c;
+  text-align: left;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 14.383333206176758px;
+  font-weight: 500;
+  position: relative;
+}
+.hero-section {
+  margin: -1px 0 0 0;
+  background: #f2f2f2;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 1032px;
+  position: relative;
+  overflow: hidden;
+}
+.hero-section2 {
+  background: linear-gradient(
+    85.27deg,
+    rgba(42, 124, 19, 1) 0%,
+    rgba(129, 200, 109, 1) 100%
+  );
+  border-radius: 24px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 146px;
+  flex: 1;
+  width: 1888px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-6 {
+  background: #306d29;
+  border-radius: 50%;
+  width: 1804px;
+  height: 1267px;
+  position: absolute;
+  left: calc(50% - 1629px);
+  top: 349px;
+  filter: blur(400px);
+}
+.rectangle-1000001687 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 1888px;
+  height: 840px;
+  position: absolute;
+  left: 0px;
+  bottom: -220px;
+}
+.rectangle-1000001688 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+  width: 1888px;
+  height: 727px;
+  position: absolute;
+  left: 0px;
+  top: 537px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.frame-1321315670 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 949px;
+  position: absolute;
+  left: 73px;
+  top: 541px;
+}
+.welcome-to-bumi-luhur-country-club {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.a-private-world-of-elevated-lifestyle {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 64px;
+  line-height: 111%;
+  font-weight: 400;
+  position: relative;
+  width: 701px;
+}
+.a-private-world-of-elevated-lifestyle-span {
+  font-family: "Georgia-Regular", sans-serif;
+}
+.a-private-world-of-elevated-lifestyle-span2 {
+  font-family: "Georgia-Italic", sans-serif;
+  font-style: italic;
+}
+.where-wellness-sport-leisure-and-meaningful-connections-come-together-in-an-exclusive-environment-designed-for-a-life-well-lived {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  width: 701px;
+}
+.frame-1321315742 {
+  background: #ffffff;
+  border-radius: 100px;
+  padding: 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  height: 58px;
+  position: absolute;
+  left: 73px;
+  top: 869px;
+  overflow: hidden;
+}
+.discover-the-club {
+  color: #306d29;
+  text-align: center;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-1321315803 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1321315265 {
+  flex-shrink: 0;
+  width: 19px;
+  height: 18px;
+  position: relative;
+  overflow: visible;
+}
+.frame-1321315743 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.15);
+  border-width: 1px;
+  padding: 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  height: 58px;
+  position: absolute;
+  left: 362px;
+  top: 869px;
+  overflow: hidden;
+}
+.explore-membership {
+  color: #ffffff;
+  text-align: center;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-13213152652 {
+  flex-shrink: 0;
+  width: 19px;
+  height: 18px;
+  position: relative;
+  overflow: visible;
+}
+.frame-1321315797 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1695px;
+  top: 874px;
+}
+.frame-1321315411 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 190px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.15);
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  overflow: hidden;
+}
+.frame-13213152653 {
+  width: 19px;
+  height: 18px;
+  position: absolute;
+  left: 14px;
+  top: 15px;
+  overflow: visible;
+}
+.frame-1321315796 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 190px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.15);
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-13213152654 {
+  width: 19px;
+  height: 18px;
+  position: absolute;
+  left: 14px;
+  top: 15px;
+  overflow: visible;
+}
+.hero-section3 {
+  margin: -1px 0 0 0;
+  background: #f2f2f2;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 146px 292px 146px 292px;
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1920px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-13213156702 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-2147237620 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.union {
+  flex-shrink: 0;
+  width: 41.94px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 41.94/42;
+}
+.the-club-at-a-glance {
+  color: #306d29;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.bumi-luhur-is-a-private-country-club-where-sport-wellness-recreation-family-and-hospitality-come-together-to-create-a-place-you-can-enjoy-connect-and-return-to-every-day {
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1224px;
+}
+.bumi-luhur-is-a-private-country-club-where-sport-wellness-recreation-family-and-hospitality-come-together-to-create-a-place-you-can-enjoy-connect-and-return-to-every-day-span {
+  color: #1e1e1e;
+  font-family: "Georgia-Regular", sans-serif;
+}
+.bumi-luhur-is-a-private-country-club-where-sport-wellness-recreation-family-and-hospitality-come-together-to-create-a-place-you-can-enjoy-connect-and-return-to-every-day-span2 {
+  color: #306d29;
+  font-family: "Georgia-Italic", sans-serif;
+  font-style: italic;
+}
+.frame-2147237621 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 720px;
+  position: relative;
+}
+.frame-1321315790 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.gemini-generated-image-um-8-g-4-oum-8-g-4-oum-8-g-1 {
+  flex-shrink: 0;
+  width: 461px;
+  height: 826px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  object-fit: cover;
+  aspect-ratio: 461/826;
+}
+.rectangle-10000016872 {
+  background: linear-gradient(
+    180deg,
+    rgba(48, 109, 41, 0) 0%,
+    rgba(48, 109, 41, 1) 100%
+  );
+  flex-shrink: 0;
+  width: 454px;
+  height: 871px;
+  position: absolute;
+  left: 0px;
+  bottom: -151px;
+}
+.frame-1321315802 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 66.67px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.5);
+  border-width: 0.67px;
+  flex-shrink: 0;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - 158px);
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.bold-video-audio-sound-play {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: calc(50% - 13.33px);
+  top: 50%;
+  translate: 0 -50%;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1321315798 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  box-shadow: 0px 4px 18.7px 0px rgba(0, 0, 0, 0.25);
+}
+.discover-bumi-luhur {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 32px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.a-private-world-of-elevated-lifestyle2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 28px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.a-private-world-of-elevated-lifestyle-2-span {
+  font-family: "Georgia-Regular", sans-serif;
+}
+.a-private-world-of-elevated-lifestyle-2-span2 {
+  font-family: "Georgia-Italic", sans-serif;
+  font-style: italic;
+}
+.a-refined-environment-designed-around-movement-wellbeing-recreation-and-connection {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.btn-hero-primary {
+  border-style: solid;
+  border-color: transparent;
+  border-width: 3px;
+  padding: 12px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 157px;
+  height: 42px;
+  position: relative;
+  overflow: hidden;
+}
+.explore-the-club {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyExtraBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 400;
+  position: relative;
+  width: 126px;
+  height: 18px;
+}
+.frame-13213158032 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 138px;
+  top: 23px;
+}
+.frame-13213152655 {
+  flex-shrink: 0;
+  width: 19px;
+  height: 18px;
+  position: relative;
+  overflow: visible;
+}
+.frame-1321315805 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2147237624 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+._50 {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 42px;
+  line-height: 120%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-13213157982 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.everything-you-need-in-one-place {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 254px;
+}
+.a-thoughtfully-curated-country-club-where-movement-wellness-relaxation {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2147237623 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1321315809 {
+  background: rgba(242, 242, 242, 0.8);
+  border-radius: 100px;
+  padding: 21px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 386.67px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-1 {
+  background: #306d29;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 396px;
+  height: 396px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.fitness {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1321315807 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.sports-active {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.fitness-pilates-swimming-tennis-badminton-basketball {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.frame-13213152656 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1321315810 {
+  background: rgba(242, 242, 242, 0.8);
+  border-radius: 100px;
+  padding: 21px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 386.67px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-12 {
+  background: #306d29;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: calc(50% - -0.5px);
+}
+.material-symbols-spa-rounded {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.wellness-relaxation {
+  color: #191a15;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.spa-massage-salon-fisiotherapy-recovery-center-exclusive-locker-lounge-sauna-jacuzzi-cold-plunge {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.frame-13213152657 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1321315811 {
+  background: rgba(242, 242, 242, 0.8);
+  border-radius: 100px;
+  padding: 21px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 386.67px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1321315811-property-1-bold-property-2-electronic-devices-property-3-property-33 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.entertainment-leisure {
+  color: #191a15;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.billiard-karaoke-rooms-game-room-library {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.frame-13213152658 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1321315812 {
+  background: rgba(242, 242, 242, 0.8);
+  border-radius: 100px;
+  padding: 21px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 386.67px;
+  position: relative;
+  overflow: hidden;
+}
+.vuesax-bold-people {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.social-family-spaces {
+  color: #191a15;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rooftop-restaurant-with-golf-view-multi-function-room-outdoor-garden-playground-kids-club-featuring-kids-gym-and-playroom {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.frame-13213152659 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-1321315813 {
+  background: rgba(242, 242, 242, 0.8);
+  border-radius: 100px;
+  padding: 21px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 386.67px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1321315813-property-1-bold-property-2-transport-parts-service-property-3-property-33 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.comfort-convenience {
+  color: #191a15;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ev-charging-station-integrated-experience-with-mason-pine-hotel-parahyangan-golf-bumi-pancasona-sports-club {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 12px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.frame-132131526510 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-2147237622 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-1321315806 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.an-integrated-lifestyle {
+  color: #191a15;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 32px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+  align-self: stretch;
+}
+.thriving-ecosystem-in-kota-baru-parahyangan {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.group-4 {
+  flex-shrink: 0;
+  width: 625.46px;
+  height: 238px;
+  position: static;
+}
+.frame-2147237666 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 11.32px;
+  width: 103.97px;
+  height: 139.34px;
+  position: absolute;
+  left: -21.46px;
+  top: 262.5px;
+  transform-origin: 0 0;
+  transform: rotate(20deg) scale(-1, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-2147237667 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 11.32px;
+  width: 103.97px;
+  height: 139.34px;
+  position: absolute;
+  left: 408.6px;
+  top: 262.5px;
+  transform-origin: 0 0;
+  transform: rotate(20deg) scale(1, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-2147237663 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 13.9px;
+  width: 127.71px;
+  height: 171.15px;
+  position: absolute;
+  left: 62.26px;
+  top: 221.93px;
+  transform-origin: 0 0;
+  transform: rotate(15deg) scale(-1, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-2147237662 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 13.9px;
+  width: 127.71px;
+  height: 171.15px;
+  position: absolute;
+  left: 324.77px;
+  top: 221.93px;
+  transform-origin: 0 0;
+  transform: rotate(15deg) scale(1, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-2147237661 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 16px;
+  width: 147.01px;
+  height: 197.02px;
+  position: absolute;
+  left: 155.51px;
+  top: 195.57px;
+  box-shadow: 0px 0px 23.08px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(10deg) scale(-1, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-2147237660 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 16px;
+  width: 147.01px;
+  height: 197.02px;
+  position: absolute;
+  left: 231.59px;
+  top: 195.57px;
+  box-shadow: 0px 0px 23.08px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(10deg) scale(1, 1);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-2147237659 {
+  background: linear-gradient(to left, #306d29, #306d29);
+  border-radius: 18.12px;
+  width: 166.51px;
+  height: 223.14px;
+  position: absolute;
+  left: 110.54px;
+  top: 191px;
+  box-shadow: 0px 0px 23.08px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-13213158072 {
+  background: #306d29;
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 243px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-13213157983 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.union2 {
+  opacity: 0.05;
+  flex-shrink: 0;
+  width: 276.01px;
+  height: 276.38px;
+  position: absolute;
+  left: 92.67px;
+  top: 10px;
+  overflow: visible;
+  aspect-ratio: 276.01/276.38;
+}
+.exclusive-access {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 32px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+  align-self: stretch;
+}
+.your-access-to-an-elevated-everyday {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2147237631 {
+  background: #ffffff;
+  border-radius: 100px;
+  padding: 24px 3px 24px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 58px;
+  position: relative;
+  overflow: hidden;
+}
+.discover-membership {
+  color: #306d29;
+  text-align: center;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  width: 219px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-13213154112 {
+  background: #306d29;
+  border-radius: 205.83px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1.08px;
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+  overflow: hidden;
+}
+.frame-132131526511 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.hero-section4 {
+  margin: -1px 0 0 0;
+  background: #ffffff;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 146px 292px 146px 292px;
+  display: flex;
+  flex-direction: column;
+  gap: 122px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.union3 {
+  flex-shrink: 0;
+  width: 41.94px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 41.94/42;
+}
+.every-part-of-your-lifestyle {
+  color: #306d29;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.whether-you-come-to-train-unwind-spend-time-with-family-or-connect-with-your-community-every-visit-to-bumi-luhur-is-designed-around-the-way-you-choose-to-live {
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1188px;
+}
+.whether-you-come-to-train-unwind-spend-time-with-family-or-connect-with-your-community-every-visit-to-bumi-luhur-is-designed-around-the-way-you-choose-to-live-span {
+  color: #1e1e1e;
+  font-family: "Georgia-Regular", sans-serif;
+}
+.whether-you-come-to-train-unwind-spend-time-with-family-or-connect-with-your-community-every-visit-to-bumi-luhur-is-designed-around-the-way-you-choose-to-live-span2 {
+  color: #000000;
+  font-family: "Georgia-Regular", sans-serif;
+}
+.whether-you-come-to-train-unwind-spend-time-with-family-or-connect-with-your-community-every-visit-to-bumi-luhur-is-designed-around-the-way-you-choose-to-live-span3 {
+  color: #306d29;
+  font-family: "Georgia-Italic", sans-serif;
+  font-style: italic;
+}
+.frame-2147237638 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1336px;
+  position: relative;
+}
+.frame-2147237635 {
+  display: flex;
+  flex-direction: row;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-13213157984 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.frame-2147237634 {
+  background: rgba(242, 242, 242, 0.8);
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 298px;
+  height: 3px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1000001689 {
+  background: #306d29;
+  border-radius: 100px;
+  width: 1px;
+  height: 3px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.fitness2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.move {
+  color: #306d29;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.stay-active-through-thoughtfully-designed-spaces-for-fitness-sport-and-movement-at-every-pace {
+  color: #757575;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-21472376382 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.rectangle-10000016892 {
+  border-radius: 100px;
+  width: 1px;
+  height: 3px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.meditation {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.recharge {
+  color: #757575;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.achieve-balance-with-wellness-experiences-that-help-you-slow-down-and-feel-your-best {
+  color: #757575;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2147237640 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.vuesax-bold-people2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.connect {
+  color: #757575;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.bring-family-friends-and-your-community-together-in-spaces-designed-for-connection-beyond-the-everyday {
+  color: #757575;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2147237639 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.bold-faces-emotions-stickers-smile-circle {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.enjoy {
+  color: #757575;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.from-dining-and-entertainment-to-relaxed-social-spaces-every-visit-offers-another-reason-to-stay-a-little-longer {
+  color: #757575;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2147237669 {
+  background: #306d29;
+  border-radius: 24px;
+  padding: 32px;
+  flex-shrink: 0;
+  width: 1336px;
+  height: 522px;
+  position: relative;
+  overflow: hidden;
+}
+.group-5 {
+  height: auto;
+  position: absolute;
+  left: -4px;
+  top: -16px;
+  overflow: visible;
+}
+.hero-section5 {
+  margin: -1px 0 0 0;
+  background: #ffffff;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 146px 292px 146px 292px;
+  display: flex;
+  flex-direction: column;
+  gap: 122px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1920px;
+  position: relative;
+  overflow: hidden;
+}
+.union4 {
+  flex-shrink: 0;
+  width: 41.94px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 41.94/42;
+}
+.an-integrated-lifestyle2 {
+  color: #306d29;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.more-ways-to-experience-the-bumi-luhur-lifestyle-through-an-integrated-ecosystem-of-hospitality-golf-sports-and-lifestyle-destinations-your-experience-extends-beyond-the-club {
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.more-ways-to-experience-the-bumi-luhur-lifestyle-through-an-integrated-ecosystem-of-hospitality-golf-sports-and-lifestyle-destinations-your-experience-extends-beyond-the-club-span {
+  color: #191a15;
+  font-family: "Georgia-Regular", sans-serif;
+}
+.more-ways-to-experience-the-bumi-luhur-lifestyle-through-an-integrated-ecosystem-of-hospitality-golf-sports-and-lifestyle-destinations-your-experience-extends-beyond-the-club-span2 {
+  color: #306d29;
+  font-family: "Georgia-Italic", sans-serif;
+  font-style: italic;
+}
+.frame-21472376392 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-13213158052 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 24px;
+  border-width: 2px;
+  border-style: solid;
+  border-image: transparent;
+  border-image-slice: 1;
+  padding: 98px 32px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  height: 573px;
+  position: relative;
+  overflow: hidden;
+}
+.image-7 {
+  flex-shrink: 0;
+  width: 160px;
+  height: 201px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 160/201;
+}
+.frame-13213157985 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.extend-your-experience {
+  color: #306d29;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.a-place-for-stays-events-and-memorable-moments-in-bumi-luhur {
+  color: #757575;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-21472376312 {
+  background: #306d29;
+  border-radius: 100px;
+  padding: 24px 3px 24px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 58px;
+  position: relative;
+  overflow: hidden;
+}
+.explore {
+  color: #ffffff;
+  text-align: center;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  width: 148px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-13213154113 {
+  background: #ffffff;
+  border-radius: 205.83px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1.08px;
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+  overflow: hidden;
+}
+.frame-132131526512 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.image-8 {
+  flex-shrink: 0;
+  width: 234px;
+  height: 263px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 234/263;
+}
+.leisure-meets-game {
+  color: #306d29;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.enhance-your-lifestyle-with-a-connection-to-parahyangan-golf-bandung-for-leisure {
+  color: #757575;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-132131526513 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.frame-13213158073 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 24px;
+  border-width: 2px;
+  border-style: solid;
+  border-image: transparent;
+  border-image-slice: 1;
+  padding: 98px 32px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  height: 573px;
+  position: relative;
+  overflow: hidden;
+}
+.image-9 {
+  flex-shrink: 0;
+  width: 178px;
+  height: 192px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 178/192;
+}
+.frame-13213157986 {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 212px;
+  position: relative;
+}
+.more-ways-to-stay-active {
+  color: #306d29;
+  text-align: center;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  width: 266px;
+}
+.connect-with-bumi-pancasona-and-pancasona-racquet-club {
+  color: #757575;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-132131526514 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.frame-13213158062 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 24px;
+  border-width: 2px;
+  border-style: solid;
+  border-image: transparent;
+  border-image-slice: 1;
+  padding: 98px 32px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-end;
+  flex: 1;
+  height: 573px;
+  position: relative;
+  overflow: hidden;
+}
+.image-10 {
+  flex-shrink: 0;
+  width: 182px;
+  height: 185px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 182/185;
+}
+.a-place-for-stays-events-meetings-and-memorable-moments-in-bumi-luhur {
+  color: #757575;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-132131526515 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.frame-1321315800 {
+  background: #306d29;
+  border-radius: 100px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: absolute;
+  left: 348px;
+  top: 517px;
+  overflow: hidden;
+}
+.ellipse-13 {
+  background: #306d29;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.stay-hospitality {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-21472376402 {
+  background: #306d29;
+  border-radius: 100px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: absolute;
+  left: 702px;
+  top: 517px;
+  overflow: hidden;
+}
+.golf-leisure {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237641 {
+  background: #306d29;
+  border-radius: 100px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: absolute;
+  left: 1020px;
+  top: 517px;
+  overflow: hidden;
+}
+.sports-recreation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237642 {
+  background: #306d29;
+  border-radius: 100px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: absolute;
+  left: 1338px;
+  top: 517px;
+  overflow: hidden;
+}
+.lifestyle-entertainment {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hero-section6 {
+  margin: -1px 0 0 0;
+  background: #ffffff;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 146px 292px 146px 292px;
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-1000001681 {
+  background: linear-gradient(
+    180deg,
+    rgba(242, 242, 242, 0) 0%,
+    rgba(242, 242, 242, 1) 100%
+  );
+  flex-shrink: 0;
+  width: 1920px;
+  height: 1593px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 0px;
+}
+.frame-1321315818 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.union5 {
+  flex-shrink: 0;
+  width: 41.94px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 41.94/42;
+}
+.wellness-dining {
+  color: #306d29;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.slow-down-recharge-and-stay-longer-bumi-luhur-offers-wellness-experiences-relaxed-dining-and-space-to-connect-and-enjoy {
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.slow-down-recharge-and-stay-longer-bumi-luhur-offers-wellness-experiences-relaxed-dining-and-space-to-connect-and-enjoy-span {
+  color: #191a15;
+  font-family: "Georgia-Regular", sans-serif;
+}
+.slow-down-recharge-and-stay-longer-bumi-luhur-offers-wellness-experiences-relaxed-dining-and-space-to-connect-and-enjoy-span2 {
+  color: #306d29;
+  font-family: "Georgia-Italic", sans-serif;
+  font-style: italic;
+}
+.frame-2147237670 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-13213158053 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  border-radius: 24px;
+  padding: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex: 1;
+  height: 550px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-10000016873 {
+  background: linear-gradient(
+    180deg,
+    rgba(48, 109, 41, 0) 0%,
+    rgba(48, 109, 41, 1) 100%
+  );
+  flex-shrink: 0;
+  width: 656px;
+  height: 657px;
+  position: absolute;
+  left: 0px;
+  bottom: -57px;
+}
+.wellness {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyExtraBold-☞", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.frame-2147237676 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.restore-your-balance {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.take-time-to-recharge-with-spa-massage-physiotherapy-recovery-and-relaxation-experiences-designed-around-your-wellbeing {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2147237675 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-13213158002 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.spa {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1321315801 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.massage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158022 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.physiotherapy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158033 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.recovery {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1321315804 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.sauna {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158054 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.jacuzzi {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158063 {
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 100px;
+  padding: 16px 24px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.cold-plunge {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1321315819 {
+  background: linear-gradient(to left, #ffffff, #ffffff);
+  border-radius: 24px;
+  padding: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex: 1;
+  height: 550px;
+  position: relative;
+  overflow: hidden;
+}
+.dining {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyExtraBold-☞", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.frame-2147237677 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.gather-around-something-good {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.enjoy-relaxed-dining-casual-conversations-and-memorable-moments-in-spaces-designed-for-everything-from-everyday-meals-to-special-occasions {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.rooftop-restaurant {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.golf-view {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.social-dining {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.private-gatherings {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hero-section7 {
+  margin: -1px 0 0 0;
+  background: #ffffff;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 146px 292px 146px 292px;
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.union6 {
+  flex-shrink: 0;
+  width: 41.94px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 41.94/42;
+}
+.the-club-experience {
+  color: #306d29;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.designed-around-the-way-you-live-with-thoughtfully-curated-spaces-for-sport-wellness-leisure-family-and-everyday-comfort {
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.designed-around-the-way-you-live-with-thoughtfully-curated-spaces-for-sport-wellness-leisure-family-and-everyday-comfort-span {
+  color: #191a15;
+  font-family: "Georgia-Regular", sans-serif;
+}
+.designed-around-the-way-you-live-with-thoughtfully-curated-spaces-for-sport-wellness-leisure-family-and-everyday-comfort-span2 {
+  color: #306d29;
+  font-family: "Georgia-Italic", sans-serif;
+  font-style: italic;
+}
+.frame-1321315799 {
+  background: rgba(242, 242, 242, 0.8);
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-13213158003 {
+  background: #306d29;
+  border-radius: 100px;
+  padding: 16px 28px 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.fitness3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.sports-active2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237626 {
+  background: #ffffff;
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+._15 {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  width: 15px;
+  height: 11px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158023 {
+  border-radius: 100px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.material-symbols-spa-rounded2 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.wellness-relaxation2 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158034 {
+  border-radius: 100px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1321315811-property-1-bold-property-2-electronic-devices-property-3-property-332 {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.entertainment-leisure2 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158042 {
+  border-radius: 100px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.vuesax-bold-people3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.social-family-spaces2 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158055 {
+  border-radius: 100px;
+  padding: 16px 28px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1321315813-property-1-bold-property-2-transport-parts-service-property-3-property-332 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.comfort-convenience2 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1321315817 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 572px;
+  position: relative;
+}
+.frame-13213158064 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.95),
+    rgba(242, 242, 242, 0.95)
+  );
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 429.33px;
+  position: relative;
+  overflow: hidden;
+}
+._03 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 36px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.frame-13213157902 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 429.33px;
+  height: 572px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-10000016882 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.4) 100%
+  );
+  flex-shrink: 0;
+  width: 429px;
+  height: 212px;
+  position: absolute;
+  left: 0px;
+  top: 212px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.rectangle-10000016874 {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+  flex-shrink: 0;
+  width: 430px;
+  height: 272px;
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+}
+.frame-2147237625 {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.fitness4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-2147237633 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.fitness-center {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.a-state-of-the-art-fitness-center-equipped-with-premium-technogym-equipment-for-an-elevated-training-experience {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.frame-1321315815 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 429.33px;
+  height: 572px;
+  position: relative;
+  overflow: hidden;
+}
+.fitness5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-21472376342 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.tennis-court {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.an-indoor-tennis-environment-designed-for-practice-play-and-coaching-in-a-comfortable-setting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.frame-1321315814 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.8),
+    rgba(242, 242, 242, 0.8)
+  );
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 429.33px;
+  height: 572px;
+  position: relative;
+  overflow: hidden;
+}
+.fitness6 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.swimming-pool {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.enjoy-refreshing-swims-and-relaxed-moments-in-the-club-s-premium-infinity-swimming-pool {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.frame-1321315821 {
+  background: linear-gradient(
+    to left,
+    rgba(242, 242, 242, 0.9),
+    rgba(242, 242, 242, 0.9)
+  );
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 429.33px;
+  height: 572px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-21472376252 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.fitness7 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.sports-active3 {
+  color: rgba(242, 242, 242, 0.9);
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 14px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.spa-massage {
+  color: rgba(242, 242, 242, 0.9);
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.dedicated-spaces-for-spa-treatments-massage-and-moments-of-deep-relaxation {
+  color: #f2f2f2;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.frame-1321315769 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1700px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 891px;
+}
+.frame-1321315754 {
+  border-radius: 190px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(-1, 1);
+  overflow: hidden;
+}
+.ellipse-5 {
+  background: #306d29;
+  border-radius: 50%;
+  width: 59px;
+  height: 59px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+  aspect-ratio: 1;
+}
+.frame-132131526516 {
+  width: 19px;
+  height: 18px;
+  position: absolute;
+  left: 14px;
+  top: 15px;
+  overflow: visible;
+}
+.frame-13213154114 {
+  border-radius: 190px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-132131526517 {
+  width: 19px;
+  height: 18px;
+  position: absolute;
+  left: 14px;
+  top: 15px;
+  overflow: visible;
+}
+.frame-1 {
+  margin: -1px 0 0 0;
+  padding: 68px 89px 68px 89px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 1920px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 63px;
+  overflow: hidden;
+}
+.bumi-luhur {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Vandermark-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 227px;
+}
+.frame-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.the-club {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: relative;
+}
+.the-facilites {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: relative;
+}
+.classes-coach {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: relative;
+}
+.membership {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: relative;
+}
+.partnership {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-2147237629 {
+  display: flex;
+  flex-direction: row;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.global {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  aspect-ratio: 1;
+}
+.global2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-13213157432 {
+  background: #ffffff;
+  border-radius: 100px;
+  padding: 24px 3px 24px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+  overflow: hidden;
+}
+.book-a-tour {
+  color: #306d29;
+  text-align: center;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-13213154115 {
+  background: #306d29;
+  border-radius: 166.25px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 0.88px;
+  flex-shrink: 0;
+  width: 42px;
+  height: 42px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+  overflow: hidden;
+}
+.frame-132131526518 {
+  width: 16.63px;
+  height: 15.75px;
+  position: absolute;
+  left: 12.25px;
+  top: 13.13px;
+  overflow: visible;
+}
+.hero-section8 {
+  margin: -1px 0 0 0;
+  background: #f2f2f2;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.hero-section9 {
+  background: linear-gradient(
+    to left,
+    rgba(48, 109, 41, 0.3),
+    rgba(48, 109, 41, 0.3)
+  );
+  border-radius: 24px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 98px 276px 98px 276px;
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1888px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-10000016883 {
+  background: linear-gradient(
+    180deg,
+    rgba(48, 109, 41, 0) 0%,
+    rgba(48, 109, 41, 1) 100%
+  );
+  flex-shrink: 0;
+  width: 1888px;
+  height: 520px;
+  position: absolute;
+  left: 0px;
+  top: 520px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.rectangle-10000016875 {
+  background: linear-gradient(
+    180deg,
+    rgba(48, 109, 41, 0) 0%,
+    rgba(48, 109, 41, 1) 100%
+  );
+  flex-shrink: 0;
+  width: 1888px;
+  height: 496px;
+  position: absolute;
+  left: 0px;
+  top: 811px;
+}
+.frame-13213156703 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1336px;
+  height: 219px;
+  position: relative;
+}
+.union7 {
+  flex-shrink: 0;
+  width: 41.94px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 41.94/42;
+}
+.a-membership-designed-around-your-life {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.your-access-to-an-elevated-everyday-with-selected-facilities-exclusive-programs-special-member-rates-and-priority-reservations {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-21472376403 {
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-13213158056 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.union8 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32.04px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 32/32.04;
+}
+.frame-2147237678 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.individual {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.for-your-personal-pursuits {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.enjoy-the-freedom-to-train-recharge-connect-and-make-the-club-part-of-your-everyday-lifestyle {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  width: 342px;
+}
+.individuals-professionals-active-lifestyle {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.explore-6-month-membership {
+  color: #ffffff;
+  text-align: center;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  width: 489px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-132131526519 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.line-46 {
+  margin-top: -2px;
+  border-style: solid;
+  border-color: rgba(139, 138, 141, 0.1);
+  border-width: 2px 0 0 0;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+}
+.frame-2147237643 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.frame-21472376412 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.selected-club-facilities {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-21472376422 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.member-exclusive-programs {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-21472376432 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.special-member-rates {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237644 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.priority-reservations {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1321315808 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.union9 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32.04px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 32/32.04;
+}
+.family {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.for-the-people-who-matter-most {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.bring-the-whole-family-into-a-lifestyle-of-sport-wellness-recreation-and-shared-moments-at-the-club {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  width: 342px;
+}
+.parents-children-family-lifestyle {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-132131526520 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.linear-essentional-ui-check-circle5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.linear-essentional-ui-check-circle6 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.linear-essentional-ui-check-circle7 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.linear-essentional-ui-check-circle8 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.frame-2147237645 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle9 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.complimentary-event-invitations {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237646 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle10 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.access-to-vip-lounges {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158092 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+.union10 {
+  flex-shrink: 0;
+  width: 32px;
+  height: 32.04px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 32/32.04;
+}
+.prestige {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 120%;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.a-more-privileged-club-experience {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.enjoy-an-elevated-membership-experience-with-enhanced-privileges-designed-for-those-who-want-more-from-their-time-at-bumi-luhur {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 600;
+  position: relative;
+  width: 342px;
+}
+.premium-members-families-extended-privileges {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 14px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-132131526521 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.frame-21472376433 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle11 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.linear-essentional-ui-check-circle12 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.linear-essentional-ui-check-circle13 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.linear-essentional-ui-check-circle14 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.linear-essentional-ui-check-circle15 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.complimentary-guest-passes {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.linear-essentional-ui-check-circle16 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.seasonal-workshops-and-events {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237647 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle17 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.access-to-premium-lounges {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237648 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.linear-essentional-ui-check-circle18 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.personalized-coaching-sessions {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-21472376404 {
+  background: #306d29;
+  border-radius: 73.75px;
+  padding: 11.8px 23.6px 11.8px 23.6px;
+  display: flex;
+  flex-direction: row;
+  gap: 11.8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 35.4px;
+  position: absolute;
+  left: 259.33px;
+  top: 30.3px;
+  overflow: hidden;
+}
+.ellipse-14 {
+  background: #306d29;
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 0.74px;
+  height: 0.74px;
+  position: absolute;
+  left: 50%;
+  translate: -50% -50%;
+  top: 50%;
+}
+.recommendation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 11.0625px;
+  line-height: 26.55px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.union11 {
+  flex-shrink: 0;
+  width: 41.94px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 41.94/42;
+}
+.frequently-asked-questions {
+  color: #306d29;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.everything-you-need-to-know-from-membership-and-club-access-to-facilities-reservations-and-the-bumi-luhur-experience {
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 1128px;
+}
+.everything-you-need-to-know-from-membership-and-club-access-to-facilities-reservations-and-the-bumi-luhur-experience-span {
+  color: #191a15;
+  font-family: "Georgia-Regular", sans-serif;
+}
+.everything-you-need-to-know-from-membership-and-club-access-to-facilities-reservations-and-the-bumi-luhur-experience-span2 {
+  color: #306d29;
+  font-family: "Georgia-Italic", sans-serif;
+  font-style: italic;
+}
+.frame-13213157992 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-13213158004 {
+  background: #306d29;
+  border-radius: 100px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.membership2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158024 {
+  border-radius: 100px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.access-guests {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158035 {
+  border-radius: 100px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.facilities {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13213158043 {
+  border-radius: 100px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 68px;
+  position: relative;
+  overflow: hidden;
+}
+.reservations {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 15px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-21472376482 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-13213158074 {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 32px 8px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+._01 {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.what-does-a-bumi-luhur-membership-include {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 431px;
+}
+.membership-provides-access-to-selected-country-club-facilities-including-premium-swimming-pool-facilities-gym-studio-classes-courts-entertainment-and-wellness-areas-as-well-as-member-exclusive-programs-special-member-rates-and-priority-reservations {
+  color: #757575;
+  text-align: left;
+  font-family: "Montserrat-Medium", sans-serif;
+  font-size: 15px;
+  line-height: 150%;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.frame-21472376332 {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 32px 8px 32px 32px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 78px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-21472376472 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 433px;
+  position: relative;
+}
+._02 {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.what-membership-options-are-available {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.frame-2147237632 {
+  background: #306d29;
+  border-radius: 126.67px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 0.67px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1283px;
+  top: 55px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.frame-132131526522 {
+  width: 12.67px;
+  height: 12px;
+  position: absolute;
+  left: 9.33px;
+  top: 10px;
+  overflow: visible;
+}
+.frame-21472376343 {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 32px 8px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-21472376473 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 691px;
+  position: relative;
+}
+._032 {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.what-is-the-difference-between-the-6-month-and-1-year-membership {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.frame-132131526523 {
+  width: 12.67px;
+  height: 12px;
+  position: absolute;
+  left: 9.33px;
+  top: 10px;
+  overflow: visible;
+}
+.frame-21472376352 {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 32px 8px 32px 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-21472376474 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 424px;
+  position: relative;
+}
+._04 {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.are-there-special-benefits-for-members {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 20px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.frame-132131526524 {
+  width: 12.67px;
+  height: 12px;
+  position: absolute;
+  left: 9.33px;
+  top: 10px;
+  overflow: visible;
+}
+.frame-21472376322 {
+  background: #306d29;
+  border-radius: 126.67px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 0.67px;
+  flex-shrink: 0;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1577px;
+  top: 684px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+  overflow: hidden;
+  aspect-ratio: 1;
+}
+.frame-132131526525 {
+  width: 12.67px;
+  height: 12px;
+  position: absolute;
+  left: 9.33px;
+  top: 10px;
+  overflow: visible;
+}
+.hero-section10 {
+  background: linear-gradient(
+    to left,
+    rgba(48, 109, 41, 0.98),
+    rgba(48, 109, 41, 0.98)
+  );
+  border-radius: 24px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 2.5px 0px 0px 0px;
+  padding: 73px 276px 48px 276px;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1888px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2147237655 {
+  display: flex;
+  flex-direction: column;
+  gap: 68px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-13213156704 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1336px;
+  position: relative;
+}
+.union12 {
+  flex-shrink: 0;
+  width: 41.94px;
+  height: 42px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 41.94/42;
+}
+.your-place-at-bumi-luhur-awaits {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: relative;
+}
+.discover-the-membership-that-fits-the-way-you-live-and-start-experiencing-the-club-on-your-terms {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Georgia-Regular", sans-serif;
+  font-size: 40px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-21472376313 {
+  background: #ffffff;
+  border-radius: 100px;
+  padding: 24px 3px 24px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 322px;
+  height: 58px;
+  position: relative;
+  overflow: hidden;
+}
+.become-a-member {
+  color: #306d29;
+  text-align: center;
+  font-family: "GilroyBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  width: 219px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-132131526526 {
+  width: 20.58px;
+  height: 19.5px;
+  position: absolute;
+  left: 15.17px;
+  top: 16.25px;
+  overflow: visible;
+}
+.frame-13213158065 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 68px;
+  display: flex;
+  flex-direction: row;
+  gap: 58px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 543px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2147237649 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.bumi-luhur2 {
+  color: #306d29;
+  text-align: left;
+  font-family: "Vandermark-Regular", sans-serif;
+  font-size: 32px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.frame-2147237672 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.the-club2 {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+}
+.frame-2147237651 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.about-the-club {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.our-experiences {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.integrated-destination {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-21472376512 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.experiences {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+}
+.sports-active4 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.wellness-recovery {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.entertainment-leisure3 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.social-family {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.comfort-convenience3 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237652 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.membership3 {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+}
+.membership4 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.benefits {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.exclusive-access2 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237653 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.connect2 {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+}
+.contact {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.location {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.privacy-policy {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 953px;
+  top: 458px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.terms-conditions {
+  color: #306d29;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1126px;
+  top: 458px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237671 {
+  display: flex;
+  flex-direction: row;
+  gap: 28.53px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  bottom: 64.74px;
+}
+.vuesax-bold-facebook {
+  flex-shrink: 0;
+  width: 27.34px;
+  height: 27.34px;
+  position: relative;
+}
+.vuesax-bold-facebook2 {
+  height: auto;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.ant-design-instagram-filled {
+  flex-shrink: 0;
+  width: 28.53px;
+  height: 28.53px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.bi-threads {
+  flex-shrink: 0;
+  width: 20.31px;
+  height: 20.31px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.garden-twitter-fill-12 {
+  flex-shrink: 0;
+  width: 20.31px;
+  height: 20.31px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.frame-2147237673 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: absolute;
+  left: 68px;
+  top: 156px;
+}
+.locations {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+}
+.kota-baru-parahyangan-padalarang-bandung-barat-40553-indonesia {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 284px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2147237674 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: absolute;
+  left: 68px;
+  top: 267px;
+}
+.whatsapp {
+  color: #306d29;
+  text-align: left;
+  font-family: "Georgia-Bold", sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: relative;
+}
+._62-0812-3456-7890 {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+  width: 284px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.club-open-every-day {
+  color: #757575;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 400;
+  position: absolute;
+  left: 68px;
+  bottom: 74px;
+  width: 284px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.bumi-luhur-country-club-2026 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "GilroySemiBold-☞", sans-serif;
+  font-size: 16px;
+  line-height: 36px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.union13 {
+  opacity: 0.1;
+  flex-shrink: 0;
+  width: 467.01px;
+  height: 467.64px;
+  position: absolute;
+  left: 1590px;
+  top: 841px;
+  overflow: visible;
+  aspect-ratio: 467.01/467.64;
+}
+.union14 {
+  opacity: 0.1;
+  flex-shrink: 0;
+  width: 467.01px;
+  height: 467.64px;
+  position: absolute;
+  left: -55px;
+  top: -48px;
+  overflow: visible;
+  aspect-ratio: 467.01/467.64;
+}
+.safari-home-dark2 {
+  margin: -1px 0 0 0;
+  flex-shrink: 0;
+  width: 1920px;
+  height: 48px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+.safari-container2 {
+  background: #ffffff;
+  border-radius: 4.98px 4.98px 0px 0px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.07);
+  border-width: 0px 0px 2.84px 0px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.icon7 {
+  border-radius: 5.97px;
+  width: 23.9px;
+  height: 23.9px;
+  position: absolute;
+  left: 1809px;
+  top: 11.95px;
+  overflow: visible;
+}
+.icon8 {
+  border-radius: 5.97px;
+  width: 23.9px;
+  height: 23.9px;
+  position: absolute;
+  left: 1840.86px;
+  top: 11.95px;
+  overflow: visible;
+}
+.icon9 {
+  border-radius: 5.97px;
+  width: 23.9px;
+  height: 23.9px;
+  position: absolute;
+  left: 1872.73px;
+  top: 11.95px;
+  overflow: visible;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.back-button2 {
+  display: flex;
+  flex-direction: row;
+  gap: 7.97px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 937.1px);
+  top: 50%;
+  translate: 0 -50%;
+}
+.ellipse-82 {
+  background: #ff5e5d;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #e14942;
+  border-width: 0.5px;
+  flex-shrink: 0;
+  width: 11.95px;
+  height: 11.95px;
+  position: relative;
+}
+.ellipse-92 {
+  background: #ffbc4f;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #e1a325;
+  border-width: 0.5px;
+  flex-shrink: 0;
+  width: 11.95px;
+  height: 11.95px;
+  position: relative;
+}
+.ellipse-102 {
+  background: #22cb58;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #3eaf3f;
+  border-width: 0.5px;
+  flex-shrink: 0;
+  width: 11.95px;
+  height: 11.95px;
+  position: relative;
+}
+.arrows2 {
+  display: flex;
+  flex-direction: row;
+  gap: 7.97px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 55.76px;
+  position: absolute;
+  left: 155.33px;
+  top: 11.95px;
+}
+.arrow-left3 {
+  flex-shrink: 0;
+  width: 23.9px;
+  height: 23.9px;
+  position: relative;
+}
+.arrow-left4 {
+  height: auto;
+  position: absolute;
+  left: calc(50% - -3.93px);
+  top: calc(50% - 7.02px);
+  transform: translate(-7.76px, 0px);
+  overflow: visible;
+}
+.arrow-right3 {
+  flex-shrink: 0;
+  width: 23.9px;
+  height: 23.9px;
+  position: relative;
+}
+.arrow-right4 {
+  height: auto;
+  position: absolute;
+  left: calc(50% - 3.83px);
+  top: calc(50% - -7.13px);
+  transform: translate(0px, -14.15px);
+  overflow: visible;
+}
+.icon10 {
+  width: 23.9px;
+  height: 23.9px;
+  position: absolute;
+  left: 109.53px;
+  top: 11.95px;
+  overflow: visible;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.icon11 {
+  width: 23.9px;
+  height: 23.9px;
+  position: absolute;
+  left: 654px;
+  top: 11.95px;
+  overflow: visible;
+}
+.home-search-box2 {
+  width: 580.51px;
+  height: 27.88px;
+  position: absolute;
+  left: 684.87px;
+  top: 9.96px;
+}
+.rectangle-72 {
+  background: #f2f2f2;
+  border-radius: 4.98px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.refresh2 {
+  width: 4.12%;
+  height: 85.71%;
+  position: absolute;
+  right: 0.17%;
+  left: 95.71%;
+  bottom: 7.14%;
+  top: 7.14%;
+  overflow: visible;
+}
+.search-box2 {
+  display: flex;
+  flex-direction: row;
+  gap: 1px;
+  align-items: center;
+  justify-content: center;
+  width: 16.98%;
+  height: 85.71%;
+  position: absolute;
+  right: 41.51%;
+  left: 41.51%;
+  bottom: 7.14%;
+  top: 7.14%;
+}
+.secure-icons2 {
+  flex-shrink: 0;
+  width: 23.9px;
+  height: 23.9px;
+  position: relative;
+}
+.icon12 {
+  height: auto;
+  position: absolute;
+  left: 7.97px;
+  top: 6.97px;
+  overflow: visible;
+}
+.dribbble-com2 {
+  color: #4c4c4c;
+  text-align: left;
+  font-family: "Manrope-Medium", sans-serif;
+  font-size: 11.948654174804688px;
+  font-weight: 500;
+  position: relative;
+}
