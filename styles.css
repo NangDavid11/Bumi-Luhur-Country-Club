@@ -394,7 +394,7 @@ svg use { fill: currentColor; }
   color: var(--green);
   transition: background-color .2s, color .2s;
 }
-.cat:hover { background: #e9ece8; }
+.cat:hover { background: var(--green); color: #fff; } /* <--- Ubah background menjadi var(--green) dan warna teks utama menjadi putih */
 .cat.is-active { background: var(--green); color: #fff; }
 .cat__ic { width: 23.5px; height: 22.5px; flex: none; display: grid; place-items: center; }
 .cat__txt { flex: 1; min-width: 0; margin: 0 22px 0 17.1px; }
@@ -409,8 +409,9 @@ svg use { fill: currentColor; }
   text-overflow: ellipsis;
 }
 .cat.is-active strong,
-.cat.is-active small { color: #fff; }
-.cat__go { width: 15.3px; height: 13.7px; }
+.cat.is-active small,
+.cat:hover strong,
+.cat:hover small { color: #fff; } /* <--- Tambahkan .cat:hover strong, .cat:hover small agar judul & deskripsi ikut menjadi putih saat di-hover */
 
 .glance__stack { display: grid; grid-template-rows: 453px 243px; gap: 24px; }
 .glance-eco { padding: 26px 32px 32px; }
@@ -435,7 +436,7 @@ svg use { fill: currentColor; }
   pointer-events: none;
 }
 .glance-access .h-card { margin-top: 6.5px; }
-.glance-access .btn { margin-top: 15px; width: 322.7px; position: relative; }
+.glance-access .btn { margin-tofp: 15px; width: 322.7px; position: relative; }
 
 /* ==========================================================================
    LIFESTYLE
